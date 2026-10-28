@@ -1,0 +1,3 @@
+bottleneck4, seed 42:
+  greedy  | výhry  50.0% | BANK 100.0% | P(BANK)  52.3% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/5
+  sampled | výhry  60.0% | BANK  52.6% | P(BANK)  56.9% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/6

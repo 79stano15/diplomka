@@ -1,0 +1,18 @@
+tapered, seed 42:
+  greedy  | výhry  39.2% | BANK 100.0% | P(BANK)  59.1% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/157
+  sampled | výhry  48.0% | BANK  62.1% | P(BANK)  62.3% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/192
+tapered, seed 43:
+  greedy  | výhry  39.2% | BANK 100.0% | P(BANK)  64.7% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/157
+  sampled | výhry  46.5% | BANK  68.4% | P(BANK)  68.1% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/186
+tapered, seed 44:
+  greedy  | výhry  39.2% | BANK 100.0% | P(BANK)  53.2% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/157
+  sampled | výhry  46.2% | BANK  56.0% | P(BANK)  56.5% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/185
+medium, seed 42:
+  greedy  | výhry  57.8% | BANK  51.2% | P(BANK)  48.2% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/231
+  sampled | výhry  47.5% | BANK  47.2% | P(BANK)  47.0% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/190
+medium, seed 43:
+  greedy  | výhry  52.2% | BANK  65.1% | P(BANK)  59.3% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/209
+  sampled | výhry  47.5% | BANK  59.4% | P(BANK)  60.0% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/190
+medium, seed 44:
+  greedy  | výhry  54.0% | BANK  63.5% | P(BANK)  58.8% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/216
+  sampled | výhry  48.2% | BANK  59.3% | P(BANK)  58.9% | bankovanie za menej bodov   0.0% | prehliadnutá výhra 0/193

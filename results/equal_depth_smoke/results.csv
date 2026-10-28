@@ -1,0 +1,3 @@
+architecture,seed,parameters,vs_v2,vs_250,vs_500,vs_650,vs_800
+medium,99,1825,0.3,0.4,0.425,0.325,0.625
+compact,99,657,0.025,0.0,0.025,0.0,0.075

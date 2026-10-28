@@ -1,0 +1,49 @@
+{
+  "models": [
+    "medium",
+    "compact_quantum",
+    "compact_frozen"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "training_budgets": [
+    500,
+    1000,
+    2000,
+    5000,
+    10000
+  ],
+  "eval_matches": 1000,
+  "evaluation_opponent": "v2",
+  "evaluation_mode": "greedy",
+  "strategic_filter": false,
+  "train_opponents": [
+    "v2",
+    250,
+    500,
+    800
+  ],
+  "actor_lr": 0.0003,
+  "critic_lr": 0.0005,
+  "entropy_coefficient": 0.01,
+  "max_grad_norm": 1.0,
+  "goal": 4000,
+  "qubits": 4,
+  "block_depth": 2,
+  "quantum_backend": "torch_statevector",
+  "torch_version": "2.14.1+cpu",
+  "pennylane_version": "0.45.1",
+  "reference_sha256": "43d7bb03696f3d432c949649297f069e9241ff9a8b8109824f76d04c88c7124b",
+  "source_sha256": {
+    "runner": "9870f236b931da3677bb6d040e8183ac809369c798f832d1a9f927e3d7c24232",
+    "shared_training": "c918b26a7982cbceb632bf50f2c73c9a5d01285e92379df8314e567f9481c313",
+    "compact_models": "3a9fd20f6980718bf9a48ca25f39904b846670c285d58b659f390c6bf28f5d49",
+    "fast_simulator": "6ea779f512a882a02a62f0446c3014200b78198f515f14d0fb7a650d210962a9",
+    "game": "6dda98dce18c571a6321e97a5b476681bad0ec82862bac749ea155cc4563faae",
+    "critic": "80f9e9583313ff7cf33b531817e95ec6cf4559e684dabef7c7b04ea9df415a46",
+    "policy_sizes": "89b719cae6b5009fa705f2c6904072cc178e30287ee877cb0c9dc142ef2c5651"
+  }
+}

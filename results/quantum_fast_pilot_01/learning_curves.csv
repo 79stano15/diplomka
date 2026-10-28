@@ -1,0 +1,3 @@
+﻿model,seed,episode,recent_win_rate,elapsed_seconds,policy_calls,action_evals
+hybrid,42,100,0.08,17.838522499994724,1607,9886
+hybrid,42,200,0.08,35.9954613000009,3232,19875

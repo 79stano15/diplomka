@@ -1,0 +1,6 @@
+﻿model,seed,parameters,opponent,mode,eval_seconds,matches,wins,win_rate,rolls,policy_calls,action_evals,nonwinning_decisions,bank_rate,mean_p_bank,dominated_banks,dominated_bank_rate,winning_opportunities,missed_wins
+hybrid,42,897,v2,greedy,2.233629499998642,20,0,0.0,1182,779,3928,779,0.0,0.4814576142071836,0,0.0,0,0
+hybrid,42,897,250,greedy,1.9371857000078307,20,0,0.0,1105,678,3678,678,0.0,0.4812462186072692,0,0.0,0,0
+hybrid,42,897,500,greedy,2.7392129999934696,20,0,0.0,1756,966,5242,966,0.0,0.4801786871700245,0,0.0,0,0
+hybrid,42,897,650,greedy,2.3107810000074096,20,0,0.0,1600,813,4258,811,0.0,0.48021953407348894,0,0.0,2,2
+hybrid,42,897,800,greedy,2.721177400002489,20,0,0.0,2006,998,5052,996,0.0,0.4801165940030571,0,0.0,2,2

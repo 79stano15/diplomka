@@ -1,0 +1,7 @@
+﻿model,seed,episode,recent_win_rate,elapsed_seconds,policy_calls,action_evals
+compact_quantum,42,50,0.02,9.08585370000219,737,4768
+compact_quantum,42,100,0.06,17.916704999981448,1454,9278
+compact_no_ent,42,50,0.08,9.077162600005977,726,4645
+compact_no_ent,42,100,0.08,18.03487810000661,1481,9432
+compact_classical,42,50,0.04,1.0025997000047937,754,4805
+compact_classical,42,100,0.05,2.1219709000142757,1561,9788

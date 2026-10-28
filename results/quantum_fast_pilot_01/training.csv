@@ -1,0 +1,2 @@
+﻿model,seed,parameters,train_seconds,matches,wins,win_rate,rolls,policy_calls,action_evals,nonwinning_decisions,bank_rate,mean_p_bank,dominated_banks,dominated_bank_rate,winning_opportunities,missed_wins
+hybrid,42,897,35.996281700005056,200,16,0.08,8074,3232,19875,3194,0.48966812773951157,0.4839650522357666,721,0.22573575453976205,38,22
